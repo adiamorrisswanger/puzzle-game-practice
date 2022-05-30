@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/adiamorrisswanger/puzzle-game-practice.git">
-    <img src="/images/js-logo.png" alt="Javascript Logo">
+    <img src="/images/js-logo.png" alt="Javascript Logo" width=80 height=80>
   </a>
 
 <h3 align="center">Puzzle Game: Javaascript Practice</h3>
@@ -76,5 +76,7 @@ Adia Morris Swanger - [@longtallsallie](https://twitter.com/longtallsallie) - ad
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/adiamorrisswanger/puzzle-game-practice.svg?style=for-the-badge
+[contributors-url]: https://github.com/adiamorrisswanger/puzzle-game-practice/graphs/contributors
 <!-- Upload screenshot -->
-[product-screenshot]: (/images/PuzzleGameScreenShot.png.png)
+[product-screenshot]: (/images/PuzzleGameScreenShot.png)
