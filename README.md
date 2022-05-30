@@ -1,10 +1,6 @@
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -40,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/images/PuzzleGameScreenShot.png)
+[![Product Name Screen Shot][product-screenshot]]()
 
 A simple puzzle game built with Javascript that uses the client's camera to create the image and divides it into moveable puzzle pieces.
 
@@ -78,5 +74,7 @@ Adia Morris Swanger - [@longtallsallie](https://twitter.com/longtallsallie) - ad
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/adiamorrisswanger/puzzle-game-practice.svg?style=for-the-badge
 [contributors-url]: https://github.com/adiamorrisswanger/puzzle-game-practice/graphs/contributors
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/adia-morris-swanger
 <!-- Upload screenshot -->
-[product-screenshot]: (/images/PuzzleGameScreenShot.png)
+[product-screenshot]: (./images/PuzzleGameScreenShot.png)
