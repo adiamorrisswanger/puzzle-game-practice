@@ -77,4 +77,4 @@ Adia Morris Swanger - [@longtallsallie](https://twitter.com/longtallsallie) - ad
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adia-morris-swanger
 <!-- Upload screenshot -->
-[product-screenshot]: ./images/PuzzleGameScreenShot.png
+[product-screenshot]: /images/PuzzleGameScreenShot.png
