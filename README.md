@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/images/PuzzleGameScreenShot.png.png)
+[![Product Name Screen Shot][product-screenshot]](/images/PuzzleGameScreenShot.png)
 
 A simple puzzle game built with Javascript that uses the client's camera to create the image and divides it into moveable puzzle pieces.
 
