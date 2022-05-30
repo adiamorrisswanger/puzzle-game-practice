@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+[![Product Name Screen Shot][product-screenshot]](/images/PuzzleGameScreenShot.png.png)
 
 A simple puzzle game built with Javascript that uses the client's camera to create the image and divides it into moveable puzzle pieces.
 
@@ -49,8 +49,8 @@ A simple puzzle game built with Javascript that uses the client's camera to crea
 ### Built With
 
 * [Javascript](https://javascript.com/)
-* [HTML]
-* [CSS]
+* HTML
+* CSS
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,4 +77,4 @@ Adia Morris Swanger - [@longtallsallie](https://twitter.com/longtallsallie) - ad
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- Upload screenshot -->
-[product-screenshot]: /images/PuzzleGameScreenShot.png.png
+[product-screenshot]: (/images/PuzzleGameScreenShot.png.png)
